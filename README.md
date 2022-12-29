@@ -5,6 +5,11 @@ Simple getter/setter Solidity smart contract is used as an example.
 
 All right granted by MIT license.
 
+For more information about this subject, look at:
+
+- [Official Hedera article](https://hedera.com/blog/how-to-deploy-smart-contracts-on-hedera-part-1-a-simple-getter-and-setter-contract)
+- [Official Hedera tutorial video](https://www.youtube.com/watch?v=L9Tm6yn_ayY)
+
 ## Environment setup
 
 Run following commands to setup you development environment
@@ -20,11 +25,6 @@ Compile Solidity smart contract with following command:
 solcjs --bin YourSoliditySmartContract.sol
 
 Run (and edit) deploy.js to deploy your smart contract and run contract_interaction.js script for examples on how to interact with deployed smart contract.
-
-For more information about this subject, look at:
-
-- [Official Hedera article](https://hedera.com/blog/how-to-deploy-smart-contracts-on-hedera-part-1-a-simple-getter-and-setter-contract)
-- [Official Hedera tutorial video](https://www.youtube.com/watch?v=L9Tm6yn_ayY)
 
 # About Hedera
 
